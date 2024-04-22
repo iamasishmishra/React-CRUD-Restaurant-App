@@ -1,4 +1,5 @@
-To see live first - <a href="http://localhost:1000/Restaurants" target="_blank">Click here</a>   <br> <br>
+To see live first - <a href="http://localhost:1000/Restaurants" target="_blank">Click here</a>
+  <br> <br>
 Then - <a href="https://react-restaurant-crud-app.netlify.app/">Click here</a>
 
 It is responsive for better ux please use desktop.
