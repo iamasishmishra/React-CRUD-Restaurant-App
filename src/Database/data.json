@@ -1,0 +1,22 @@
+{
+  "Restaurants": [
+    {
+      "Name": "V.M restaurant",
+      "Address": "Btm layout , Bangalore",
+      "Pincode": "560076",
+      "Mobile": "9876543210",
+      "Email": "vmrestaurant@gmail.com",
+      "Website": "www.google.com",
+      "id": "50ca"
+    },
+    {
+      "Name": "May Fair",
+      "Address": "At - Kalinga Vihar , Bhubaneswarrrr",
+      "Pincode": "780666",
+      "Mobile": "8976579888",
+      "Email": "mayfair@gmail.com",
+      "Website": "http://www.mayfair.com/.",
+      "id": "cec5"
+    }
+  ]
+}
